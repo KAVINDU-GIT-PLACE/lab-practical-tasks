@@ -1,14 +1,9 @@
 \# Laboratory Practical Tasks
 
 
+\*\*Student Name:\*\* \Kavindu Sadaruwan  
 
-\*\*Module:\*\* Programming Fundamentals  
-
-\*\*Student Name:\*\* \[YOUR FULL NAME]  
-
-\*\*Student Registration Number:\*\* \[YOUR REG NUMBER]  
-
-\*\*Group:\*\* \[YOUR GROUP]
+\*\*Student Registration Number:\*\* 244060E
 
 
 
